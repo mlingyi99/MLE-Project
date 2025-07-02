@@ -19,8 +19,8 @@ Dataset
 
 🚀 Pipeline Workflow
     1.Compute RFM scores from transaction data.
-    2. Group customers into portrait segments using clustering (e.g., K‑means).
-    3. Model Customer Lifetime Value:
+    2.Group customers into portrait segments using clustering (e.g., K‑means).
+    3.Model Customer Lifetime Value:
         Aggregate historical RFM to predict future monetary contributions.
         Answer: “Based on past behavior, how much will new users spend in the next 12–24 months?”
 🔍 Why This Matters
