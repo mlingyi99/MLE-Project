@@ -1,7 +1,5 @@
 📊 Data Exploration & Customer Profiling
-
-Objective:
-    Use user demographics and transaction behavior to build customer personas.
+RFM analysis is a marketing technique used to segment customers based on three key metrics: Recency, Frequency, and Monetary value. It helps businesses understand customer behavior and identify their most valuable customers. By analyzing these metrics, businesses can tailor marketing strategies and personalize offers to improve customer engagement and retention. 
 
 Approach Overview:
   1. RFM Analysis
